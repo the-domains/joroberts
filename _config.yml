@@ -1,7 +1,7 @@
 name: JoRoberts
 favicon: null
-layout_spectrum: 0.9056
-typography_spectrum: 0.21508
+layout_spectrum: 0.31407746602781117
+typography_spectrum: 0.8836723444983363
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0a0605'
-    - '#ffffff'
-    - '#75726b'
-    - '#ae2f70'
-    - '#ff70c0'
-  brandStrength: 0.625
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6022765436209738
+  lightness: 0.070317946607247
+  saturation: 0.9000776810571551
+  rhythmicContrast: 0.2848739083856344
 purpose: []
